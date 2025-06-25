@@ -30,7 +30,7 @@ Tubely is a comprehensive video asset management system that streamlines the con
 - **Storage**: AWS S3
 - **CDN**: AWS CloudFront
 - **Authentication**: JWT tokens
-- **Dependencies**: 
+- **Dependencies**:
   - `github.com/golang-jwt/jwt/v5` - JWT authentication
   - `github.com/lib/pq` - PostgreSQL driver
   - `github.com/mattn/go-sqlite3` - SQLite driver
@@ -225,5 +225,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Mobile app support
 
 ---
-
-Built with ❤️ for content creators everywhere.
