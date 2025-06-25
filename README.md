@@ -49,8 +49,8 @@ Tubely is a comprehensive video asset management system that streamlines the con
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/tubely.git
-   cd tubely
+   git clone https://github.com/AlexTLDR/file-storage-s3-golang-starter.git
+   cd file-storage-s3-golang-starter
    ```
 
 2. **Install dependencies**
